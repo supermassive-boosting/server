@@ -1,13 +1,15 @@
-import Dungeon from '../src/boost/dungeon.js';
+import Dungeon from '../src/boost/dungeon/index.js';
 
 const dungeon = new Dungeon({
+  id: 3452342,
+  type: 'dungeon',
   version: 'retail',
-  client: 'timf',
+  client: { id: 1234, characterName: 'Timf-Silvermoon' },
   armorType: 'leather',
   instance: 'halls-of-infusion',
   count: 1,
-  pot: 800000,
-  roster: [1, 2, 3, 4],
+  keystoneLevel: 10,
+  difficulty: 'mythic-plus',
 });
 
 console.log(dungeon);

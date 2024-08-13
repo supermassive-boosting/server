@@ -42,6 +42,10 @@ export const BoostType = {
   LEVELING: 'leveling',
 };
 
+export const IssueType = {
+  
+}
+
 export const GameVersion = {
   RETAIL: 'retail',
   CLASSIC: {

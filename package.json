@@ -3,6 +3,11 @@
   "private": true,
   "type": "module",
   "main": "src/boost.js",
+  "scripts": {
+    "test:timer": "node tests/timer.test.js",
+    "test:dungeon": "node tests/dungeon.test.js",
+    "test:raid": "node tests/raid.test.js"
+  },
   "dependencies": {
     "slug": "^9.1.0"
   },
