@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "root": true,
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "extends": "@playerberry/eslint-config/backend"
+}

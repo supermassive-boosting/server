@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "private": true,
+  "type": "module",
+  "main": "src/boost.js",
+  "dependencies": {
+    "slug": "^9.1.0"
+  },
+  "devDependencies": {
+    "@playerberry/eslint-config": "^1.0.6",
+    "eslint": "^9.9.0",
+    "prettier": "^3.3.3"
+  },
+  "packageManager": "pnpm@9.7.0"
+}
