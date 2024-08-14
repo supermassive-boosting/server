@@ -1,5 +1,5 @@
 import Boost from '../index.js';
-import Detail from './details.js';
+import Detail from './detail.js';
 
 /**
  * Represents a dungeon, extending the functionality of the `Boost` class with additional properties

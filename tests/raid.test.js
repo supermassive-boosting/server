@@ -1,4 +1,4 @@
-import Raid from '../src/boost/test/raid.js';
+import Raid from '../src/boost/raid.js';
 
 const boosters = [
   {

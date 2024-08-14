@@ -2,7 +2,6 @@
   "name": "server",
   "private": true,
   "type": "module",
-  "main": "src/boost.js",
   "scripts": {
     "test:timer": "node tests/timer.test.js",
     "test:dungeon": "node tests/dungeon.test.js",
