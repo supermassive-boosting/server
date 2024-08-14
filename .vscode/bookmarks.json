@@ -19,6 +19,21 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "src/account/index.js",
+			"bookmarks": [
+				{
+					"line": 9,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 13,
+					"column": 4,
+					"label": ""
+				}
+			]
 		}
 	]
 }
