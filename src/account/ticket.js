@@ -55,7 +55,7 @@ export default class Ticket {
     /**
      * The date and time when the ticket was created.
      * @type {Date}
-     * @default {current date and time}
+     * @default current date and time
      */
     this.createdAt = options.createdAt || new Date();
 
